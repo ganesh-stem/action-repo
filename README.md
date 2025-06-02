@@ -34,7 +34,7 @@ git add .
 git commit -m "Implement new feature"
 git push origin feature-branch
 
-# Create PR on GitHub UI
+# Create pull request on GitHub UI
 ```
 
 ### Testing Merge Events
