@@ -70,3 +70,7 @@ if __name__ == "__main__":
     
     print("=== Application completed successfully ===")"" 
 "# Test comment added $(date)" 
+ 
+def pr_test_function(): 
+    """Function added to test PR webhook""" 
+    return "PR webhook test successful" 
