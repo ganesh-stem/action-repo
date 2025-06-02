@@ -4,13 +4,13 @@ This repository is used to test GitHub webhooks with our Flask webhook receiver.
 
 ## Purpose
 - Trigger push events when commits are made
-- Trigger pull request events when PRs are created
-- Trigger merge events when PRs are merged
+- Trigger pull request events when pull requests are created
+- Trigger merge events when pull requests are merged
 
 ## Webhook Events Monitored
 - **Push**: When code is pushed to any branch
-- **Pull Request**: When a new PR is opened
-- **Merge**: When a PR is merged
+- **Pull Request**: When a new pull request is opened
+- **Merge**: When a pull request is merged
 
 ## Test Instructions
 
