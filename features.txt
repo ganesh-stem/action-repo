@@ -1,1 +1,19 @@
-"New feature" 
+# Features List
+
+This file contains a list of features for testing webhook events.
+
+## Current Features
+- Initial setup
+- Webhook integration
+
+## Planned Features
+- Add more test scenarios
+- Implement different branch strategies
+- Test merge conflicts
+
+## Testing Notes
+- Each commit to this file should trigger a push event
+- Each branch creation should enable PR testing
+- Each merge should trigger merge events
+
+---
