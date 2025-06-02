@@ -29,3 +29,8 @@ This file contains a list of features for testing webhook events.
 "## PR Webhook Test - $(date)" 
 "- Testing pull request webhook functionality" 
 "- This change should trigger PR webhook when PR is created" 
+"" 
+"## Testing Fixed Webhook IDs - $(date)" 
+"- Testing that PR and merge get different request IDs" 
+"- PR should get: pr-X-opened" 
+"- Merge should get: pr-X-merged" 
