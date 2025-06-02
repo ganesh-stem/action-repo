@@ -1,1 +1,2 @@
-"def new_function(): pass" 
+def new_function(): 
+    pass
