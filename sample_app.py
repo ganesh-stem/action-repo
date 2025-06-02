@@ -74,3 +74,7 @@ if __name__ == "__main__":
 def pr_test_function(): 
     """Function added to test PR webhook""" 
     return "PR webhook test successful" 
+ 
+def new_pr_function(): 
+    """New function for PR testing""" 
+    return "PR test from branch" 
